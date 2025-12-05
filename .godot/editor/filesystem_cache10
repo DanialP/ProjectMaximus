@@ -1,0 +1,9 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1764957340
+icon.svg::CompressedTexture2D::5035252022446187120::1764788057::1764788851::1::::<><><>0<>0<>2120697ea61bc8705068ccf5ca03f070<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.tscn::PackedScene::2180877695958604011::1764957339::0::1::::<><><>0<>0<><>::uid://bpvl7rnrlbmr8::::res://gladiator/gladiator.tscn<>uid://bemj5x3boa5o::::res://player.gd
+player.gd::GDScript::79192643217698506::1764957340::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Level_test.tscn::PackedScene::2882877890441420384::1764957454::0::1::::<><><>0<>0<><>::
+::res://gladiator/::1764956016
+Gladiator-Sprite Sheet.png::CompressedTexture2D::1322151893407372226::1764953911::1764956010::1::::<><><>0<>0<>ee5ad834d183fd5c448972fd33880edf<>res://.godot/imported/Gladiator-Sprite Sheet.png-bb58592642592cde8a4585d3ebde46dc.ctex::
+gladiator.tscn::PackedScene::3483331217190795435::1764956010::0::1::::<><><>0<>0<><>::uid://s3pwbxi0yu4i::::res://gladiator/Gladiator-Sprite Sheet.png

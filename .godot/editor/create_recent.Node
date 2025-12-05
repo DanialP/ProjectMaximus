@@ -1,0 +1,6 @@
+ColorRect
+Camera2D
+CanvasLayer
+CollisionShape2D
+AnimatedSprite2D
+CharacterBody2D
