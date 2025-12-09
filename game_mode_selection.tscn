@@ -1,0 +1,25 @@
+[gd_scene load_steps=3 format=3 uid="uid://lnfshmjguko2"]
+
+[ext_resource type="Script" uid="uid://bk1c5u1r7ssta" path="res://game_mode_selection.gd" id="1_3182p"]
+[ext_resource type="PackedScene" uid="uid://1v5i5b52yoif" path="res://testing/test_arena.tscn" id="2_0lcp2"]
+
+[node name="GameModeSelection" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_3182p")
+local_multipayer_scene = ExtResource("2_0lcp2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Local" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+text = "LOCAL"
+
+[connection signal="pressed" from="VBoxContainer/Local" to="." method="_on_local_pressed"]

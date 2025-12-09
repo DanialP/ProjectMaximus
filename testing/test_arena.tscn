@@ -1,0 +1,42 @@
+[gd_scene load_steps=4 format=3 uid="uid://1v5i5b52yoif"]
+
+[ext_resource type="PackedScene" uid="uid://d4jd5dms5ovss" path="res://players/test_player_character.tscn" id="1_haekg"]
+[ext_resource type="Script" uid="uid://dtwh8o40jnwvs" path="res://testing/test_arena.gd" id="1_oein3"]
+
+[sub_resource type="Curve2D" id="Curve2D_oein3"]
+
+[node name="TestArena" type="Node2D"]
+script = ExtResource("1_oein3")
+player = ExtResource("1_haekg")
+
+[node name="SpawnLocation1" type="Path2D" parent="."]
+position = Vector2(200, 200)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation2" type="Path2D" parent="."]
+position = Vector2(960, 480)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation3" type="Path2D" parent="."]
+position = Vector2(200, 480)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation4" type="Path2D" parent="."]
+position = Vector2(960, 200)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation5" type="Path2D" parent="."]
+position = Vector2(250, 160)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation6" type="Path2D" parent="."]
+position = Vector2(900, 520)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation7" type="Path2D" parent="."]
+position = Vector2(250, 520)
+curve = SubResource("Curve2D_oein3")
+
+[node name="SpawnLocation8" type="Path2D" parent="."]
+position = Vector2(900, 150)
+curve = SubResource("Curve2D_oein3")
