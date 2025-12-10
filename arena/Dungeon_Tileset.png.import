@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://s3pwbxi0yu4i"
-path="res://.godot/imported/Gladiator-Sprite Sheet.png-bb58592642592cde8a4585d3ebde46dc.ctex"
+uid="uid://cvoiuwunokti"
+path="res://.godot/imported/Dungeon_Tileset.png-8576a9d9e4531804426e4faf134b8caa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://gladiator/Gladiator-Sprite Sheet.png"
-dest_files=["res://.godot/imported/Gladiator-Sprite Sheet.png-bb58592642592cde8a4585d3ebde46dc.ctex"]
+source_file="res://arena/Dungeon_Tileset.png"
+dest_files=["res://.godot/imported/Dungeon_Tileset.png-8576a9d9e4531804426e4faf134b8caa.ctex"]
 
 [params]
 

@@ -1,9 +1,14 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1764957340
+::res://::1765376863
+Dungeon.tres::TileSet::2250311762694677009::1765376863::0::1::::<><><>0<>0<><>::uid://cvoiuwunokti::::res://arena/Dungeon_Tileset.png
+game_mode_selection.gd::GDScript::3142159040929470462::1765376529::0::1::::<>Control<><>0<>0<><>::
+game_mode_selection.tscn::PackedScene::799250306694092735::1765376531::0::1::::<><><>0<>0<><>::uid://bk1c5u1r7ssta::::res://game_mode_selection.gd<>uid://1v5i5b52yoif::::res://testing/test_arena.tscn
 icon.svg::CompressedTexture2D::5035252022446187120::1764788057::1764788851::1::::<><><>0<>0<>2120697ea61bc8705068ccf5ca03f070<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-player.tscn::PackedScene::2180877695958604011::1764957339::0::1::::<><><>0<>0<><>::uid://bpvl7rnrlbmr8::::res://gladiator/gladiator.tscn<>uid://bemj5x3boa5o::::res://player.gd
-player.gd::GDScript::79192643217698506::1764957340::0::1::::<>CharacterBody2D<><>0<>0<><>::
-Level_test.tscn::PackedScene::2882877890441420384::1764957454::0::1::::<><><>0<>0<><>::
-::res://gladiator/::1764956016
-Gladiator-Sprite Sheet.png::CompressedTexture2D::1322151893407372226::1764953911::1764956010::1::::<><><>0<>0<>ee5ad834d183fd5c448972fd33880edf<>res://.godot/imported/Gladiator-Sprite Sheet.png-bb58592642592cde8a4585d3ebde46dc.ctex::
-gladiator.tscn::PackedScene::3483331217190795435::1764956010::0::1::::<><><>0<>0<><>::uid://s3pwbxi0yu4i::::res://gladiator/Gladiator-Sprite Sheet.png
+::res://arena/::1765376863
+Dungeon_Tileset.png::CompressedTexture2D::184595029740633078::1765012593::1765376866::1::::<><><>0<>0<>82c8c80ede5a4570a68980208cb750c8<>res://.godot/imported/Dungeon_Tileset.png-8576a9d9e4531804426e4faf134b8caa.ctex::
+::res://players/::1765376529
+test_player_character.gd::GDScript::6433619956784570958::1765376529::0::1::::<>CharacterBody2D<><>0<>0<><>::
+test_player_character.tscn::PackedScene::9213553818130432858::1765376529::0::1::::<><><>0<>0<><>::uid://cxwq1srunlxw5::::res://players/test_player_character.gd<>uid://cd0d4od4kn5ps::::res://icon.svg
+::res://testing/::1765376529
+test_arena.gd::GDScript::8538751122214140172::1765376529::0::1::::<>Node2D<><>0<>0<><>::
+test_arena.tscn::PackedScene::1870099242203742653::1765376529::0::1::::<><><>0<>0<><>::uid://d4jd5dms5ovss::::res://players/test_player_character.tscn<>uid://dtwh8o40jnwvs::::res://testing/test_arena.gd

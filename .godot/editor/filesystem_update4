@@ -1,6 +1,4 @@
-res://gladiator.tscn
-res://gladiator/gladiator.tscn
-res://player.tscn
-res://player.gd
-res://Level_test.tscn
-res://LevelTest.tscn
+res://arena/Dungeon.tres
+res://arena/arena_level_test.tscn
+res://arena/arena_level_test.gd
+res://players/test_player_character.tscn
