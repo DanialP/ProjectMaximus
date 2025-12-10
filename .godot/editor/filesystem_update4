@@ -1,4 +1,3 @@
-res://arena/Dungeon.tres
 res://arena/arena_level_test.tscn
-res://arena/arena_level_test.gd
+res://arena/Dungeon.tres
 res://players/test_player_character.tscn
